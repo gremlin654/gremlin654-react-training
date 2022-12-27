@@ -1,0 +1,17 @@
+.main {
+  &__container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    height: 100%;
+  }
+}
+.cards {
+  &__container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+  }
+}
