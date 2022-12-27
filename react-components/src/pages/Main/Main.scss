@@ -1,0 +1,62 @@
+.api-page {
+  &__container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    height: 100%;
+    gap: 3rem;
+  }
+  &__form {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+  &__search-container {
+    display: flex;
+    justify-content: center;
+    column-gap: 2rem;
+  }
+  &__search-button {
+    border: 1px solid #00ffcc;
+    border-radius: 2rem;
+    width: 7rem;
+    font-size: 1.8rem;
+    -webkit-text-stroke-width: thin;
+    transition: 0.3s;
+    &:hover {
+      color: white;
+      background-color: #04886e;
+      transition: 0.3s;
+      border: 1px solid #04886e;
+    }
+  }
+  &__select-container {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  &__select-text {
+    font-size: 1.8rem;
+  }
+  &__select {
+    backdrop-filter: blur(3px);
+    border: 1px solid #00ffcc;
+    height: 4rem;
+    width: 11rem;
+    border-radius: 2rem;
+    padding-left: 0.8rem;
+    position: relative;
+  }
+  &__card-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+  }
+  &__error-title {
+    font-size: 3.5rem;
+  }
+}
