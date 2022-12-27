@@ -1,0 +1,52 @@
+.search {
+  &__container {
+    backdrop-filter: blur(3px);
+    border: 1px solid #00ffcc;
+    height: 4rem;
+    border-radius: 2rem;
+    padding-left: 2rem;
+    position: relative;
+    margin: 2rem auto;
+  }
+  &__input {
+    background-color: transparent;
+    background-image: url(../../assets/img/search.svg);
+    background-position: calc(100% - 20px);
+    background-repeat: no-repeat;
+    background-size: 20px;
+    border: 0;
+    font-size: 18px;
+    height: 40px;
+    margin-right: 0;
+    width: 100%;
+    &:focus-visible {
+      outline: none;
+    }
+  }
+  &__input_close {
+    background-color: transparent;
+    background-position: calc(100% - 20px);
+    background-repeat: no-repeat;
+    background-size: 20px;
+    border: 0;
+    font-size: 18px;
+    height: 40px;
+    margin-right: 0;
+    width: 100%;
+    &:focus-visible {
+      outline: none;
+    }
+  }
+  &__croos {
+    background-image: url(../../assets/img/cross.png);
+    background-repeat: no-repeat;
+    background-size: 20px;
+    cursor: pointer;
+    font-size: 0;
+    height: 20px;
+    position: absolute;
+    right: 18px;
+    top: 10px;
+    width: 20px;
+  }
+}

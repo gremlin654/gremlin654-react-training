@@ -1,0 +1,2252 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main component Main snaphot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="main__container"
+      >
+        <div
+          class="search__container"
+        >
+          <input
+            class="search__input"
+            data-testid="input-search"
+            placeholder="Search..."
+            type="text"
+            value=""
+          />
+          <div
+            class=""
+            data-testid="search__croos"
+          />
+        </div>
+        <div
+          class="cards__container"
+          data-testid="cards-container"
+        >
+          <div
+            class="card__container "
+            data-testid="card-container"
+          >
+            <div
+              class="card__content"
+            >
+              <h3
+                class="card__text"
+              >
+                Asus VivoBook E410MA-BV1517
+              </h3>
+              <img
+                alt="Asus VivoBook E410MA-BV1517"
+                class="card__img"
+                src="https://cdn21vek.by/img/galleries/7141/530/preview/vivobooke410mabv1517_asus_61c4415cbea7f.jpeg"
+              />
+              <h5
+                class="card__text"
+              >
+                Processor model: 
+                <span>
+                  Intel Celeron N4020
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Video card model: 
+                <span>
+                  Intel UHD Graphics 600
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen diagonal: 
+                <span>
+                  14.0
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen refresh rate: 
+                <span>
+                  60 Hz
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen resolution: 
+                <span>
+                  1366x768 (HD)
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                RAM: 
+                <span>
+                  4 GB
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                SSD capacity: 
+                <span>
+                  256 GB
+                </span>
+              </h5>
+            </div>
+            <div
+              class="card__likes-container"
+            >
+              <div
+                class="card__button"
+                data-testid="likeBtn"
+              >
+                <svg
+                  class="card__like-img"
+                  data-testid="likeImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  like.svg
+                </svg>
+                0
+              </div>
+              <div
+                class="card__button"
+              >
+                <svg
+                  class="card__favourite-img"
+                  data-testid="favouriteImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  favourite.svg
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div
+            class="card__container "
+            data-testid="card-container"
+          >
+            <div
+              class="card__content"
+            >
+              <h3
+                class="card__text"
+              >
+                Notebook Acer Aspire 3 A315-34-C786 (NX.HE3EU.063)
+              </h3>
+              <img
+                alt="Notebook Acer Aspire 3 A315-34-C786 (NX.HE3EU.063)"
+                class="card__img"
+                src="https://cdn21vek.by/img/galleries/7363/769/preview/aspire3a31534c786nxhe3eu063_acer_6241743f08a44.jpeg"
+              />
+              <h5
+                class="card__text"
+              >
+                Processor model: 
+                <span>
+                  Intel Celeron N4020
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Video card model: 
+                <span>
+                  Intel UHD Graphics 600
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen diagonal: 
+                <span>
+                  15.6
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen refresh rate: 
+                <span>
+                  60 Hz
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen resolution: 
+                <span>
+                  1920x1080 (FullHD)
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                RAM: 
+                <span>
+                  8 GB
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                SSD capacity: 
+                <span>
+                  256 GB
+                </span>
+              </h5>
+            </div>
+            <div
+              class="card__likes-container"
+            >
+              <div
+                class="card__button"
+                data-testid="likeBtn"
+              >
+                <svg
+                  class="card__like-img"
+                  data-testid="likeImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  like.svg
+                </svg>
+                0
+              </div>
+              <div
+                class="card__button"
+              >
+                <svg
+                  class="card__favourite-img"
+                  data-testid="favouriteImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  favourite.svg
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div
+            class="card__container "
+            data-testid="card-container"
+          >
+            <div
+              class="card__content"
+            >
+              <h3
+                class="card__text"
+              >
+                Notebook Lenovo IdeaPad 3 15IML05 (81WB012GRE)
+              </h3>
+              <img
+                alt="Notebook Lenovo IdeaPad 3 15IML05 (81WB012GRE)"
+                class="card__img"
+                src="https://cdn21vek.by/img/galleries/7541/289/preview/ideapad315iml0581wb012gre_lenovo_629f3b193d7cb.jpeg"
+              />
+              <h5
+                class="card__text"
+              >
+                Processor model: 
+                <span>
+                  Intel Core i5-10210U
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Video card model: 
+                <span>
+                  Intel UHD Graphics
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen diagonal: 
+                <span>
+                  15.6
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen refresh rate: 
+                <span>
+                  60 Hz
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen resolution: 
+                <span>
+                  1920x1080 (FullHD)
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                RAM: 
+                <span>
+                  8 GB
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                SSD capacity: 
+                <span>
+                  256 GB
+                </span>
+              </h5>
+            </div>
+            <div
+              class="card__likes-container"
+            >
+              <div
+                class="card__button"
+                data-testid="likeBtn"
+              >
+                <svg
+                  class="card__like-img"
+                  data-testid="likeImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  like.svg
+                </svg>
+                0
+              </div>
+              <div
+                class="card__button"
+              >
+                <svg
+                  class="card__favourite-img"
+                  data-testid="favouriteImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  favourite.svg
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div
+            class="card__container "
+            data-testid="card-container"
+          >
+            <div
+              class="card__content"
+            >
+              <h3
+                class="card__text"
+              >
+                Notebook Lenovo IdeaPad L3 15ITL6 (82HL006RRE)
+              </h3>
+              <img
+                alt="Notebook Lenovo IdeaPad L3 15ITL6 (82HL006RRE)"
+                class="card__img"
+                src="https://cdn21vek.by/img/galleries/7009/518/preview/ideapadl315itl682hl006rre_lenovo_61ea8c72a9f84.jpeg"
+              />
+              <h5
+                class="card__text"
+              >
+                Processor model: 
+                <span>
+                  Intel Pentium Gold 7505
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Video card model: 
+                <span>
+                  Intel UHD Graphics
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen diagonal: 
+                <span>
+                  15.6
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen refresh rate: 
+                <span>
+                  60 Hz
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen resolution: 
+                <span>
+                  1920x1080 (FullHD)
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                RAM: 
+                <span>
+                  8 GB (4GB Soldered DDR4-2933 + 4GB SO-DIMM DDR4-2933)
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                SSD capacity: 
+                <span>
+                  256 GB
+                </span>
+              </h5>
+            </div>
+            <div
+              class="card__likes-container"
+            >
+              <div
+                class="card__button"
+                data-testid="likeBtn"
+              >
+                <svg
+                  class="card__like-img"
+                  data-testid="likeImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  like.svg
+                </svg>
+                0
+              </div>
+              <div
+                class="card__button"
+              >
+                <svg
+                  class="card__favourite-img"
+                  data-testid="favouriteImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  favourite.svg
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div
+            class="card__container "
+            data-testid="card-container"
+          >
+            <div
+              class="card__content"
+            >
+              <h3
+                class="card__text"
+              >
+                Notebook HP 250 G8 (2X7T8EA)
+              </h3>
+              <img
+                alt="Notebook HP 250 G8 (2X7T8EA)"
+                class="card__img"
+                src="https://cdn21vek.by/img/galleries/6825/499/preview/250g82x7t8ea_hp_627cae9897065.jpeg"
+              />
+              <h5
+                class="card__text"
+              >
+                Processor model: 
+                <span>
+                  Intel Celeron N4020
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Video card model: 
+                <span>
+                  Intel UHD Graphics 600
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen diagonal: 
+                <span>
+                  15.6
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen refresh rate: 
+                <span>
+                  60 Hz
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen resolution: 
+                <span>
+                  1366x768 (HD)
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                RAM: 
+                <span>
+                  4 GB
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                SSD capacity: 
+                <span>
+                  256 GB
+                </span>
+              </h5>
+            </div>
+            <div
+              class="card__likes-container"
+            >
+              <div
+                class="card__button"
+                data-testid="likeBtn"
+              >
+                <svg
+                  class="card__like-img"
+                  data-testid="likeImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  like.svg
+                </svg>
+                0
+              </div>
+              <div
+                class="card__button"
+              >
+                <svg
+                  class="card__favourite-img"
+                  data-testid="favouriteImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  favourite.svg
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div
+            class="card__container "
+            data-testid="card-container"
+          >
+            <div
+              class="card__content"
+            >
+              <h3
+                class="card__text"
+              >
+                Notebook Asus E210MA-GJ365
+              </h3>
+              <img
+                alt="Notebook Asus E210MA-GJ365"
+                class="card__img"
+                src="https://cdn21vek.by/img/galleries/7247/802/preview/e210magj365_asus_6203fc8a73493.jpeg"
+              />
+              <h5
+                class="card__text"
+              >
+                Processor model: 
+                <span>
+                  Intel Celeron N4020
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Video card model: 
+                <span>
+                  Intel UHD Graphics 600
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen diagonal: 
+                <span>
+                  11.6
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen refresh rate: 
+                <span>
+                  60 Hz
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen resolution: 
+                <span>
+                  	1366x768 (HD)
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                RAM: 
+                <span>
+                  4 GB
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                SSD capacity: 
+                <span>
+                  256 GB
+                </span>
+              </h5>
+            </div>
+            <div
+              class="card__likes-container"
+            >
+              <div
+                class="card__button"
+                data-testid="likeBtn"
+              >
+                <svg
+                  class="card__like-img"
+                  data-testid="likeImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  like.svg
+                </svg>
+                0
+              </div>
+              <div
+                class="card__button"
+              >
+                <svg
+                  class="card__favourite-img"
+                  data-testid="favouriteImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  favourite.svg
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div
+            class="card__container "
+            data-testid="card-container"
+          >
+            <div
+              class="card__content"
+            >
+              <h3
+                class="card__text"
+              >
+                Notebook HP 250 G8 (2W9A0EA)
+              </h3>
+              <img
+                alt="Notebook HP 250 G8 (2W9A0EA)"
+                class="card__img"
+                src="https://cdn21vek.by/img/galleries/65602/697/preview/250g82w9a0ea_hp_61e01c91b4270.png"
+              />
+              <h5
+                class="card__text"
+              >
+                Processor model: 
+                <span>
+                  Intel Core i3-1115G4
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Video card model: 
+                <span>
+                  Intel Iris Xe Graphics
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen diagonal: 
+                <span>
+                  15.6
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen refresh rate: 
+                <span>
+                  60 Hz
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen resolution: 
+                <span>
+                  1920x1080 (FullHD)
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                RAM: 
+                <span>
+                  8 GB
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                SSD capacity: 
+                <span>
+                  256 GB
+                </span>
+              </h5>
+            </div>
+            <div
+              class="card__likes-container"
+            >
+              <div
+                class="card__button"
+                data-testid="likeBtn"
+              >
+                <svg
+                  class="card__like-img"
+                  data-testid="likeImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  like.svg
+                </svg>
+                0
+              </div>
+              <div
+                class="card__button"
+              >
+                <svg
+                  class="card__favourite-img"
+                  data-testid="favouriteImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  favourite.svg
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div
+            class="card__container "
+            data-testid="card-container"
+          >
+            <div
+              class="card__content"
+            >
+              <h3
+                class="card__text"
+              >
+                Notebook Lenovo IdeaPad 5 15ITL05 (82FG00VFRE)
+              </h3>
+              <img
+                alt="Notebook Lenovo IdeaPad 5 15ITL05 (82FG00VFRE)"
+                class="card__img"
+                src="https://cdn21vek.by/img/galleries/7170/106/preview/ideapad515itl0582fg00vfre_lenovo_61d5b9a3ef365.jpeg"
+              />
+              <h5
+                class="card__text"
+              >
+                Processor model: 
+                <span>
+                  Intel Core i3-1115G4
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Video card model: 
+                <span>
+                  NVIDIA GeForce MX450
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen diagonal: 
+                <span>
+                  15.6
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen refresh rate: 
+                <span>
+                  60 Hz
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen resolution: 
+                <span>
+                  1920x1080 (FullHD)
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                RAM: 
+                <span>
+                  8 GB
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                SSD capacity: 
+                <span>
+                  512 GB
+                </span>
+              </h5>
+            </div>
+            <div
+              class="card__likes-container"
+            >
+              <div
+                class="card__button"
+                data-testid="likeBtn"
+              >
+                <svg
+                  class="card__like-img"
+                  data-testid="likeImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  like.svg
+                </svg>
+                0
+              </div>
+              <div
+                class="card__button"
+              >
+                <svg
+                  class="card__favourite-img"
+                  data-testid="favouriteImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  favourite.svg
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div
+            class="card__container "
+            data-testid="card-container"
+          >
+            <div
+              class="card__content"
+            >
+              <h3
+                class="card__text"
+              >
+                Notebook Lenovo IdeaPad 3 15ALC6 (82KU00AYRK)
+              </h3>
+              <img
+                alt="Notebook Lenovo IdeaPad 3 15ALC6 (82KU00AYRK)"
+                class="card__img"
+                src="https://cdn21vek.by/img/galleries/6955/983/preview/ideapad315alc682ku00ayrk_lenovo_61d45637ca3de.jpeg"
+              />
+              <h5
+                class="card__text"
+              >
+                Processor model: 
+                <span>
+                  AMD Ryzen 3 5300U
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Video card model: 
+                <span>
+                  AMD Radeon Graphics
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen diagonal: 
+                <span>
+                  15.6
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen refresh rate: 
+                <span>
+                  60 Hz
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen resolution: 
+                <span>
+                  1920x1080 (FullHD)
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                RAM: 
+                <span>
+                  8 GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200)
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                SSD capacity: 
+                <span>
+                  512 GB
+                </span>
+              </h5>
+            </div>
+            <div
+              class="card__likes-container"
+            >
+              <div
+                class="card__button"
+                data-testid="likeBtn"
+              >
+                <svg
+                  class="card__like-img"
+                  data-testid="likeImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  like.svg
+                </svg>
+                0
+              </div>
+              <div
+                class="card__button"
+              >
+                <svg
+                  class="card__favourite-img"
+                  data-testid="favouriteImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  favourite.svg
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div
+            class="card__container "
+            data-testid="card-container"
+          >
+            <div
+              class="card__content"
+            >
+              <h3
+                class="card__text"
+              >
+                Notebook Acer Aspire 3 A315-34-P7TD (NX.HE3EU.059)
+              </h3>
+              <img
+                alt="Notebook Acer Aspire 3 A315-34-P7TD (NX.HE3EU.059)"
+                class="card__img"
+                src="https://cdn21vek.by/img/galleries/6955/966/preview/aspire3a31534p7tdnxhe3eu059_acer_623c3cc599c75.jpeg"
+              />
+              <h5
+                class="card__text"
+              >
+                Processor model: 
+                <span>
+                  Intel Pentium Silver N5030
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Video card model: 
+                <span>
+                  Intel UHD Graphics 600
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen diagonal: 
+                <span>
+                  15.6
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen refresh rate: 
+                <span>
+                  60 Hz
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                Screen resolution: 
+                <span>
+                  1920x1080 (FullHD)
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                RAM: 
+                <span>
+                  4 GB
+                </span>
+              </h5>
+              <h5
+                class="card__text"
+              >
+                SSD capacity: 
+                <span>
+                  256 GB
+                </span>
+              </h5>
+            </div>
+            <div
+              class="card__likes-container"
+            >
+              <div
+                class="card__button"
+                data-testid="likeBtn"
+              >
+                <svg
+                  class="card__like-img"
+                  data-testid="likeImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  like.svg
+                </svg>
+                0
+              </div>
+              <div
+                class="card__button"
+              >
+                <svg
+                  class="card__favourite-img"
+                  data-testid="favouriteImg"
+                  fill=""
+                  height="20px"
+                  width="20px"
+                >
+                  favourite.svg
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="main__container"
+    >
+      <div
+        class="search__container"
+      >
+        <input
+          class="search__input"
+          data-testid="input-search"
+          placeholder="Search..."
+          type="text"
+          value=""
+        />
+        <div
+          class=""
+          data-testid="search__croos"
+        />
+      </div>
+      <div
+        class="cards__container"
+        data-testid="cards-container"
+      >
+        <div
+          class="card__container "
+          data-testid="card-container"
+        >
+          <div
+            class="card__content"
+          >
+            <h3
+              class="card__text"
+            >
+              Asus VivoBook E410MA-BV1517
+            </h3>
+            <img
+              alt="Asus VivoBook E410MA-BV1517"
+              class="card__img"
+              src="https://cdn21vek.by/img/galleries/7141/530/preview/vivobooke410mabv1517_asus_61c4415cbea7f.jpeg"
+            />
+            <h5
+              class="card__text"
+            >
+              Processor model: 
+              <span>
+                Intel Celeron N4020
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Video card model: 
+              <span>
+                Intel UHD Graphics 600
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen diagonal: 
+              <span>
+                14.0
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen refresh rate: 
+              <span>
+                60 Hz
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen resolution: 
+              <span>
+                1366x768 (HD)
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              RAM: 
+              <span>
+                4 GB
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              SSD capacity: 
+              <span>
+                256 GB
+              </span>
+            </h5>
+          </div>
+          <div
+            class="card__likes-container"
+          >
+            <div
+              class="card__button"
+              data-testid="likeBtn"
+            >
+              <svg
+                class="card__like-img"
+                data-testid="likeImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                like.svg
+              </svg>
+              0
+            </div>
+            <div
+              class="card__button"
+            >
+              <svg
+                class="card__favourite-img"
+                data-testid="favouriteImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                favourite.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="card__container "
+          data-testid="card-container"
+        >
+          <div
+            class="card__content"
+          >
+            <h3
+              class="card__text"
+            >
+              Notebook Acer Aspire 3 A315-34-C786 (NX.HE3EU.063)
+            </h3>
+            <img
+              alt="Notebook Acer Aspire 3 A315-34-C786 (NX.HE3EU.063)"
+              class="card__img"
+              src="https://cdn21vek.by/img/galleries/7363/769/preview/aspire3a31534c786nxhe3eu063_acer_6241743f08a44.jpeg"
+            />
+            <h5
+              class="card__text"
+            >
+              Processor model: 
+              <span>
+                Intel Celeron N4020
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Video card model: 
+              <span>
+                Intel UHD Graphics 600
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen diagonal: 
+              <span>
+                15.6
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen refresh rate: 
+              <span>
+                60 Hz
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen resolution: 
+              <span>
+                1920x1080 (FullHD)
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              RAM: 
+              <span>
+                8 GB
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              SSD capacity: 
+              <span>
+                256 GB
+              </span>
+            </h5>
+          </div>
+          <div
+            class="card__likes-container"
+          >
+            <div
+              class="card__button"
+              data-testid="likeBtn"
+            >
+              <svg
+                class="card__like-img"
+                data-testid="likeImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                like.svg
+              </svg>
+              0
+            </div>
+            <div
+              class="card__button"
+            >
+              <svg
+                class="card__favourite-img"
+                data-testid="favouriteImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                favourite.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="card__container "
+          data-testid="card-container"
+        >
+          <div
+            class="card__content"
+          >
+            <h3
+              class="card__text"
+            >
+              Notebook Lenovo IdeaPad 3 15IML05 (81WB012GRE)
+            </h3>
+            <img
+              alt="Notebook Lenovo IdeaPad 3 15IML05 (81WB012GRE)"
+              class="card__img"
+              src="https://cdn21vek.by/img/galleries/7541/289/preview/ideapad315iml0581wb012gre_lenovo_629f3b193d7cb.jpeg"
+            />
+            <h5
+              class="card__text"
+            >
+              Processor model: 
+              <span>
+                Intel Core i5-10210U
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Video card model: 
+              <span>
+                Intel UHD Graphics
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen diagonal: 
+              <span>
+                15.6
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen refresh rate: 
+              <span>
+                60 Hz
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen resolution: 
+              <span>
+                1920x1080 (FullHD)
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              RAM: 
+              <span>
+                8 GB
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              SSD capacity: 
+              <span>
+                256 GB
+              </span>
+            </h5>
+          </div>
+          <div
+            class="card__likes-container"
+          >
+            <div
+              class="card__button"
+              data-testid="likeBtn"
+            >
+              <svg
+                class="card__like-img"
+                data-testid="likeImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                like.svg
+              </svg>
+              0
+            </div>
+            <div
+              class="card__button"
+            >
+              <svg
+                class="card__favourite-img"
+                data-testid="favouriteImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                favourite.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="card__container "
+          data-testid="card-container"
+        >
+          <div
+            class="card__content"
+          >
+            <h3
+              class="card__text"
+            >
+              Notebook Lenovo IdeaPad L3 15ITL6 (82HL006RRE)
+            </h3>
+            <img
+              alt="Notebook Lenovo IdeaPad L3 15ITL6 (82HL006RRE)"
+              class="card__img"
+              src="https://cdn21vek.by/img/galleries/7009/518/preview/ideapadl315itl682hl006rre_lenovo_61ea8c72a9f84.jpeg"
+            />
+            <h5
+              class="card__text"
+            >
+              Processor model: 
+              <span>
+                Intel Pentium Gold 7505
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Video card model: 
+              <span>
+                Intel UHD Graphics
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen diagonal: 
+              <span>
+                15.6
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen refresh rate: 
+              <span>
+                60 Hz
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen resolution: 
+              <span>
+                1920x1080 (FullHD)
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              RAM: 
+              <span>
+                8 GB (4GB Soldered DDR4-2933 + 4GB SO-DIMM DDR4-2933)
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              SSD capacity: 
+              <span>
+                256 GB
+              </span>
+            </h5>
+          </div>
+          <div
+            class="card__likes-container"
+          >
+            <div
+              class="card__button"
+              data-testid="likeBtn"
+            >
+              <svg
+                class="card__like-img"
+                data-testid="likeImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                like.svg
+              </svg>
+              0
+            </div>
+            <div
+              class="card__button"
+            >
+              <svg
+                class="card__favourite-img"
+                data-testid="favouriteImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                favourite.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="card__container "
+          data-testid="card-container"
+        >
+          <div
+            class="card__content"
+          >
+            <h3
+              class="card__text"
+            >
+              Notebook HP 250 G8 (2X7T8EA)
+            </h3>
+            <img
+              alt="Notebook HP 250 G8 (2X7T8EA)"
+              class="card__img"
+              src="https://cdn21vek.by/img/galleries/6825/499/preview/250g82x7t8ea_hp_627cae9897065.jpeg"
+            />
+            <h5
+              class="card__text"
+            >
+              Processor model: 
+              <span>
+                Intel Celeron N4020
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Video card model: 
+              <span>
+                Intel UHD Graphics 600
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen diagonal: 
+              <span>
+                15.6
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen refresh rate: 
+              <span>
+                60 Hz
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen resolution: 
+              <span>
+                1366x768 (HD)
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              RAM: 
+              <span>
+                4 GB
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              SSD capacity: 
+              <span>
+                256 GB
+              </span>
+            </h5>
+          </div>
+          <div
+            class="card__likes-container"
+          >
+            <div
+              class="card__button"
+              data-testid="likeBtn"
+            >
+              <svg
+                class="card__like-img"
+                data-testid="likeImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                like.svg
+              </svg>
+              0
+            </div>
+            <div
+              class="card__button"
+            >
+              <svg
+                class="card__favourite-img"
+                data-testid="favouriteImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                favourite.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="card__container "
+          data-testid="card-container"
+        >
+          <div
+            class="card__content"
+          >
+            <h3
+              class="card__text"
+            >
+              Notebook Asus E210MA-GJ365
+            </h3>
+            <img
+              alt="Notebook Asus E210MA-GJ365"
+              class="card__img"
+              src="https://cdn21vek.by/img/galleries/7247/802/preview/e210magj365_asus_6203fc8a73493.jpeg"
+            />
+            <h5
+              class="card__text"
+            >
+              Processor model: 
+              <span>
+                Intel Celeron N4020
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Video card model: 
+              <span>
+                Intel UHD Graphics 600
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen diagonal: 
+              <span>
+                11.6
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen refresh rate: 
+              <span>
+                60 Hz
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen resolution: 
+              <span>
+                	1366x768 (HD)
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              RAM: 
+              <span>
+                4 GB
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              SSD capacity: 
+              <span>
+                256 GB
+              </span>
+            </h5>
+          </div>
+          <div
+            class="card__likes-container"
+          >
+            <div
+              class="card__button"
+              data-testid="likeBtn"
+            >
+              <svg
+                class="card__like-img"
+                data-testid="likeImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                like.svg
+              </svg>
+              0
+            </div>
+            <div
+              class="card__button"
+            >
+              <svg
+                class="card__favourite-img"
+                data-testid="favouriteImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                favourite.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="card__container "
+          data-testid="card-container"
+        >
+          <div
+            class="card__content"
+          >
+            <h3
+              class="card__text"
+            >
+              Notebook HP 250 G8 (2W9A0EA)
+            </h3>
+            <img
+              alt="Notebook HP 250 G8 (2W9A0EA)"
+              class="card__img"
+              src="https://cdn21vek.by/img/galleries/65602/697/preview/250g82w9a0ea_hp_61e01c91b4270.png"
+            />
+            <h5
+              class="card__text"
+            >
+              Processor model: 
+              <span>
+                Intel Core i3-1115G4
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Video card model: 
+              <span>
+                Intel Iris Xe Graphics
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen diagonal: 
+              <span>
+                15.6
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen refresh rate: 
+              <span>
+                60 Hz
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen resolution: 
+              <span>
+                1920x1080 (FullHD)
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              RAM: 
+              <span>
+                8 GB
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              SSD capacity: 
+              <span>
+                256 GB
+              </span>
+            </h5>
+          </div>
+          <div
+            class="card__likes-container"
+          >
+            <div
+              class="card__button"
+              data-testid="likeBtn"
+            >
+              <svg
+                class="card__like-img"
+                data-testid="likeImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                like.svg
+              </svg>
+              0
+            </div>
+            <div
+              class="card__button"
+            >
+              <svg
+                class="card__favourite-img"
+                data-testid="favouriteImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                favourite.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="card__container "
+          data-testid="card-container"
+        >
+          <div
+            class="card__content"
+          >
+            <h3
+              class="card__text"
+            >
+              Notebook Lenovo IdeaPad 5 15ITL05 (82FG00VFRE)
+            </h3>
+            <img
+              alt="Notebook Lenovo IdeaPad 5 15ITL05 (82FG00VFRE)"
+              class="card__img"
+              src="https://cdn21vek.by/img/galleries/7170/106/preview/ideapad515itl0582fg00vfre_lenovo_61d5b9a3ef365.jpeg"
+            />
+            <h5
+              class="card__text"
+            >
+              Processor model: 
+              <span>
+                Intel Core i3-1115G4
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Video card model: 
+              <span>
+                NVIDIA GeForce MX450
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen diagonal: 
+              <span>
+                15.6
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen refresh rate: 
+              <span>
+                60 Hz
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen resolution: 
+              <span>
+                1920x1080 (FullHD)
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              RAM: 
+              <span>
+                8 GB
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              SSD capacity: 
+              <span>
+                512 GB
+              </span>
+            </h5>
+          </div>
+          <div
+            class="card__likes-container"
+          >
+            <div
+              class="card__button"
+              data-testid="likeBtn"
+            >
+              <svg
+                class="card__like-img"
+                data-testid="likeImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                like.svg
+              </svg>
+              0
+            </div>
+            <div
+              class="card__button"
+            >
+              <svg
+                class="card__favourite-img"
+                data-testid="favouriteImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                favourite.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="card__container "
+          data-testid="card-container"
+        >
+          <div
+            class="card__content"
+          >
+            <h3
+              class="card__text"
+            >
+              Notebook Lenovo IdeaPad 3 15ALC6 (82KU00AYRK)
+            </h3>
+            <img
+              alt="Notebook Lenovo IdeaPad 3 15ALC6 (82KU00AYRK)"
+              class="card__img"
+              src="https://cdn21vek.by/img/galleries/6955/983/preview/ideapad315alc682ku00ayrk_lenovo_61d45637ca3de.jpeg"
+            />
+            <h5
+              class="card__text"
+            >
+              Processor model: 
+              <span>
+                AMD Ryzen 3 5300U
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Video card model: 
+              <span>
+                AMD Radeon Graphics
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen diagonal: 
+              <span>
+                15.6
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen refresh rate: 
+              <span>
+                60 Hz
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen resolution: 
+              <span>
+                1920x1080 (FullHD)
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              RAM: 
+              <span>
+                8 GB (4GB Soldered DDR4-3200 + 4GB SO-DIMM DDR4-3200)
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              SSD capacity: 
+              <span>
+                512 GB
+              </span>
+            </h5>
+          </div>
+          <div
+            class="card__likes-container"
+          >
+            <div
+              class="card__button"
+              data-testid="likeBtn"
+            >
+              <svg
+                class="card__like-img"
+                data-testid="likeImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                like.svg
+              </svg>
+              0
+            </div>
+            <div
+              class="card__button"
+            >
+              <svg
+                class="card__favourite-img"
+                data-testid="favouriteImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                favourite.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="card__container "
+          data-testid="card-container"
+        >
+          <div
+            class="card__content"
+          >
+            <h3
+              class="card__text"
+            >
+              Notebook Acer Aspire 3 A315-34-P7TD (NX.HE3EU.059)
+            </h3>
+            <img
+              alt="Notebook Acer Aspire 3 A315-34-P7TD (NX.HE3EU.059)"
+              class="card__img"
+              src="https://cdn21vek.by/img/galleries/6955/966/preview/aspire3a31534p7tdnxhe3eu059_acer_623c3cc599c75.jpeg"
+            />
+            <h5
+              class="card__text"
+            >
+              Processor model: 
+              <span>
+                Intel Pentium Silver N5030
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Video card model: 
+              <span>
+                Intel UHD Graphics 600
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen diagonal: 
+              <span>
+                15.6
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen refresh rate: 
+              <span>
+                60 Hz
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              Screen resolution: 
+              <span>
+                1920x1080 (FullHD)
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              RAM: 
+              <span>
+                4 GB
+              </span>
+            </h5>
+            <h5
+              class="card__text"
+            >
+              SSD capacity: 
+              <span>
+                256 GB
+              </span>
+            </h5>
+          </div>
+          <div
+            class="card__likes-container"
+          >
+            <div
+              class="card__button"
+              data-testid="likeBtn"
+            >
+              <svg
+                class="card__like-img"
+                data-testid="likeImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                like.svg
+              </svg>
+              0
+            </div>
+            <div
+              class="card__button"
+            >
+              <svg
+                class="card__favourite-img"
+                data-testid="favouriteImg"
+                fill=""
+                height="20px"
+                width="20px"
+              >
+                favourite.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
