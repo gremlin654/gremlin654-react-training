@@ -1,0 +1,44 @@
+.pagination {
+  &__container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2rem;
+    align-items: center;
+  }
+  &__container-control {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    column-gap: 2rem;
+  }
+  &__container-select {
+    display: flex;
+    column-gap: 1rem;
+  }
+  &__characters {
+    font-size: 2.5rem;
+    font-weight: 600;
+    & span {
+      color: #00ffcc;
+    }
+  }
+  &__button {
+    border: 1px solid #00ffcc;
+    border-radius: 2rem;
+    height: 4rem;
+    width: 7rem;
+    font-size: 1.8rem;
+    -webkit-text-stroke-width: thin;
+    transition: 0.3s;
+    &:hover {
+      color: white;
+      background-color: #04886e;
+      transition: 0.3s;
+      border: 1px solid #04886e;
+    }
+  }
+  &__text {
+    font-size: 1.8rem;
+  }
+}
